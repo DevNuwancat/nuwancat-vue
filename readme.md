@@ -1,3 +1,5 @@
+![nuwancat-vue](https://i.imgur.com/4m75J6K.png)
+
 # nuwancat-vue
 
 Scaffold a **Vue 3 + TypeScript + Tailwind CSS v4 + Vue Router** project in one command.
