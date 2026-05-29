@@ -1,4 +1,4 @@
-![nuwancat-vue](https://i.imgur.com/4m75J6K.png)
+![nuwancat-vue](https://i.imgur.com/psmnKDY.png)
 
 # nuwancat-vue
 
