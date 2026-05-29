@@ -1,0 +1,27 @@
+{
+  "name": "nuwancat-vue",
+  "version": "1.0.0",
+  "description": "Scaffold Vue 3 + TypeScript + Tailwind v4 + Router in one command",
+  "main": "index.js",
+  "bin": {
+    "nuwancat-vue": "./index.js"
+  },
+  "keywords": [
+    "vue",
+    "vite",
+    "tailwind",
+    "scaffolding",
+    "vue3",
+    "typescript"
+  ],
+  "author": "nuwancat",
+  "license": "MIT",
+  "funding": {
+    "type": "ko-fi",
+    "url": "https://ko-fi.com/nuwancat"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DevNuwancat/nuwancat-vue"
+  }
+}
